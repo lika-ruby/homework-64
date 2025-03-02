@@ -2,6 +2,7 @@
   "name": "homework-64",
   "version": "1.0.0",
   "description": "My first project with Parcel",
+  "homepage": "https://lika-ruby.github.io/homework-64/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html",
